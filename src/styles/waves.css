@@ -1,0 +1,11 @@
+.wave-top{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.wave-bottom{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
