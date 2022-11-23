@@ -53,6 +53,10 @@ a {
   padding: 0 16px;
 }
 
+.sticky {
+  position: sticky;
+}
+
 .bg-config-default-fixed {
   background-attachment: fixed;
   background-size: cover;
